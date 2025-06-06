@@ -2,7 +2,7 @@
 
 multi-agent debate system, exploring emergence in agents through memory dynamics.<br>
 each agent is grounded in a philosophical worldview (rn through ICL)<br>
-^^ note, do this through fine tuning later<br>
+this will be done through fine tuning during later stages<br>
 
 the agents debate, guided by an orchestrator.<br>
 we study their behavior.<br>
