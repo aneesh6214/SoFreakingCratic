@@ -1,0 +1,5 @@
+/.venv
+.env
+/orchestrator/__pycache__
+/prompts/__pycache__
+/agents/__pycache__
